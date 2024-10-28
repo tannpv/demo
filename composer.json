@@ -1,0 +1,22 @@
+{
+    "name": "tannguyen/demo",
+    "description": "the demo package",
+    "type": "library",
+    "require": {
+       
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tannguyen\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tan nguyen",
+            "email": "tannpv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
